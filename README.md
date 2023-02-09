@@ -4,7 +4,7 @@
 
 - <b>[Machine Learning Hate Speech Competition](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 
-- <b>[Paypal Verifies] </b>
+- <b>[Paypal Verifies](https://github.com/joshmadakor1/Algorithms-Practice) </b>
 
 - <b>[Homeguard]</b>
 
