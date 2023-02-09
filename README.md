@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yogesh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Yogesh! <br/>Programmer</a>, <a href="https://www.linkedin.com/in/yogesh-shelgaonkar/">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
